@@ -1,5 +1,32 @@
 ### SCRNet: A Self-Correcting Recurrent Network for Unsupervised Medical Image Registration
 
+Our **model weight file (.pth.tar)** is available at:
+```angular2html
+https://drive.google.com/drive/folders/1qU6qSA87-57nksJxgBq8-Iy-c4pgQNHm
+```
+
+If you want to **run our model weight file directly**, please ensure your file directory is as follows:
+```angular2html
+SCRNet/
+├── experiments/
+│   ├── Abdomen_2025/
+│   ├── IXI_2025/
+│   ├── LPBA_2025/
+│   ├── Mindboggle_2025/
+│   └── OASIS_2025/
+├── logs/
+│   ├── Abdomen_2025/
+│   ├── IXI_2025/
+│   ├── LPBA_2025/
+│   ├── Mindboggle_2025/
+│   └── OASIS_2025/
+├── mytools/
+├── network/
+├── infer.py
+├── README.md
+└── train.py
+```
+
 Create conda environment.
 ```shell
 conda create -n your_env python=3.11
