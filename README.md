@@ -1,7 +1,3 @@
-### SCRNet
-
-Official  repository about "SCRNet: A Self-Correcting Recurrent Network for Unsupervised Medical Image Registration"
-
 ![img](figure/framework.png)
 
 ![img](figure/analysis.png)
