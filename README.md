@@ -1,6 +1,6 @@
 ![img](figure/framework.png)
 
-![img](figure/analysis.png)
+![img](figure/analysis1.png)
 
 ![img](figure/comparison.png)
 
