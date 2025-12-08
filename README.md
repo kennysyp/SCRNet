@@ -64,7 +64,8 @@ Dataset:
 - OASIS: <https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration/blob/main/OASIS/TransMorph_on_OASIS.md>
 - IXI: <https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration/blob/main/IXI/TransMorph_on_IXI.md>
 - LPBA: <https://github.com/tzayuan/TransMatch_TMI/blob/main/README.md>
-- Mindboggle: <https://github.com/kharitz/learnpool/blob/master/README.md>  (Mindboggle101_individuals  Mindboggle101_release3)
+- Mindboggle: <https://github.com/kharitz/learnpool/blob/master/README.md>
+    - (Mindboggle101_individuals -> Mindboggle101_release3)
 - Abdomen: <https://github.com/Runshi-Zhang/UTSRMorph/blob/main/README.md>
 
 
