@@ -2,7 +2,7 @@
 
 📜 **Associated Manuscript:**
 - **Title:** SCRNet: A Self-Correcting Recurrent Network for Unsupervised Medical Image Registration
-- **Status:** AE Assigns Reviewers at [IEEE TMI] | Preprint available on TechRxiv
+- **Status:** Under Review at [IEEE TMI] | Preprint available on TechRxiv
 - **Submitted Date:** 06-Dec-2025
 
 🔒 **Important Notice for Reviewers and Users:**
